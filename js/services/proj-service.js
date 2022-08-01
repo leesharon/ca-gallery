@@ -13,7 +13,7 @@ function _createProj(id, name, title, desc, url, labels) {
         title,
         desc,
         url,
-        publishedAt: getTime(),
+        publishedAt: 'July 22',
         labels
     }
 }
